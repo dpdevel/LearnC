@@ -16,5 +16,4 @@ help:
 or use gcc command:
 ```
 $ gcc -Wall -Wextra -O2 -pedantic -Wpedantic -Wformat -pthread <filename.c> -o <filename>
-
 ```
