@@ -32,7 +32,7 @@ righe della seconda matrice) il programma deve terminare segnalando un errore.
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
-#include <sys/mman.h
+#include <sys/mman.h>
 #include <errno.h>
 
 int main(int argc, char *argv[])

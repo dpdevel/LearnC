@@ -10,7 +10,7 @@ b)  Modificare il programma precedente in modo che il calcolo della matrice prod
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
-#include <sys/mman.h
+#include <sys/mman.h>
 #include <errno.h>
 #include <pthread.h>        //aggiunto
 

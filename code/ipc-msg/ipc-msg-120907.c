@@ -19,7 +19,7 @@ in standard output la stringa di testo.
 Si noti che l’applicazione deve continuare a leggere linee dallo standard input anche durante
 la stampa ritardata delle stringhe (sono attività da svolgere contemporaneamente).
 
-B. Scrivere un programma C/POSIX che continuamente attende messaggi di testo
+Scrivere un programma C/POSIX che continuamente attende messaggi di testo
 da una coda di messaggi IPC e li stampa sullo standard output. La coda di messaggi IPC è
 già esistente ed è identificabile tramite la chiave ottenibile con il percorso “/tmp” e il carattere
 identificativo “!”. Si assuma che i messaggi di testo abbiano una lunghezza massima di 256
